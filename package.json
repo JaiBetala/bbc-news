@@ -1,0 +1,23 @@
+{
+  "name": "bbc-news",
+  "version": "1.0.0",
+  "description": "Text - classification for news topic prediction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaiBetala/bbc-news.git"
+  },
+  "author": "Jai Betala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaiBetala/bbc-news/issues"
+  },
+  "homepage": "https://github.com/JaiBetala/bbc-news#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.5",
+    "zebras": "0.0.17"
+  }
+}
